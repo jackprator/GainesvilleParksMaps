@@ -1,0 +1,22 @@
+places = [
+{"placeName":"Sweetwater Wetlands Park","descrip":"Open from 7 a.m. to dusk.","latitude":29.61962,"longitude":-82.32939},
+{"placeName":"UF Teaching Center Lab Trails","descrip":"Open 24 hours.","latitude":29.63468,"longitude":-82.367332},
+{"placeName":"Bivens Arm Nature Park","descrip":"Open 9 a.m. to 5 p.m.","latitude":29.61897,"longitude":-82.3354},
+{"placeName":"Split Rock Conservation Area","descrip":"Temporarily closed.","latitude":29.63782,"longitude":-82.39173},
+{"placeName":"Bouleware Springs Park","descrip":"Open 7 a.m. to 8 p.m.","latitude":29.62358981,"longitude":-82.30839138},
+{"placeName":"La Chua Trailhead","descrip":"Open 8 a.m. to 8 p.m.","latitude":29.61359311,"longitude":-82.30448798},
+{"placeName":"Alachua Lake Overlook","descrip":"Temporarily closed.","latitude":29.60314587,"longitude":-82.29367331},
+{"placeName":"John Mahon Nature Park","descrip":"Open 7 a.m. to 7 p.m.","latitude":29.65566794,"longitude":-82.38854006},
+{"placeName":"Loblolly Woods Nature Park","descrip":"Open 8 a.m. to 8 p.m.","latitude":29.65715969,"longitude":-82.37137392},
+{"placeName":"Cofrin Nature Park","descrip":"Open 7 a.m. to 6 p.m.","latitude":29.66402147,"longitude":-82.39437655},
+{"placeName":"Chapman's Pond & Nature Trails","descrip":"Open 24 hours.","latitude":29.62135156,"longitude":-82.41394594},
+{"placeName":"San Felasco Hammock Nature Trail","descrip":"Open 24 hours.","latitude":29.71982565,"longitude":-82.46087915},
+{"placeName":"San Felasco Equestrian Trailhead and Biking Trails","descrip":"Open 24 hours.","latitude":29.78023145,"longitude":-82.47491878},
+{"placeName":"Haile's Trails","descrip":"Open 24 hours.","latitude":29.70698666,"longitude":-82.563248},
+{"placeName":"Bolen Bluff Trail","descrip":"Open 24 hours.","latitude":29.55942994,"longitude":-82.32933223},
+{"placeName":"Cones Dike Trail","descrip":"Open 24 hours.","latitude":29.55076909,"longitude":-82.29036509},
+{"placeName":"Paynes Prairie Preserve State Park","descrip":"Open 8 a.m. to 8:45 p.m.","latitude":29.52209337,"longitude":-82.29379832},
+{"placeName":"Barr Hammock Preserve","descrip":"Open 8 a.m. to 8 p.m.","latitude":29.51903116,"longitude":-82.30615794},
+{"placeName":"Levy Loop Trailhead","descrip":"Open 8 a.m. to 8 p.m.","latitude":29.51683139,"longitude":-82.3069383},
+{"placeName":"Gainesville-Hawthorne State Trail","descrip":"Open 8 a.m. to dusk","latitude":29.60842344,"longitude":-82.2797909}
+]
